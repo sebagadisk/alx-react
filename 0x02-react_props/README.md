@@ -1,4 +1,4 @@
-# 0x03. React props
+# 0x02. React props
 :open_file_folder: Specializations - Web Stack programming ― React  
 :bust_in_silhouette: By Johann Kerbrat, Engineering Manager at Uber Works  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
@@ -36,4 +36,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 5. Shapes, Loops, and Keys
 
 ## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+[Sebagadis Kahsay](https://www.github.com/sebagadisk)
